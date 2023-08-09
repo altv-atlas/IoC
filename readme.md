@@ -1,4 +1,7 @@
-﻿# FrenziedMarmot.DependencyInjection
+# AltV.Icarus.IoC
+Forked from https://github.com/FrenziedMarmot/DependencyInjection and modified for Project Icarus.
+ 
+# FrenziedMarmot.DependencyInjection
 
 The library, `FrenziedMarmot.DependencyInjection` provides the ability to map dependency injection via attributes.
 
