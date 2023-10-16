@@ -1,4 +1,4 @@
-namespace AltV.Icarus.IoC.Attributes;
+namespace AltV.Atlas.IoC.Attributes;
 
 /// <summary>
 ///     Attribute class for using in dependency injection. This is a quality-of-life attribute that can be used for

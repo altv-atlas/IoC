@@ -1,11 +1,11 @@
 ﻿using System.Reflection;
-using AltV.Icarus.IoC.Attributes;
-using AltV.Icarus.IoC.Injection;
+using AltV.Atlas.IoC.Attributes;
+using AltV.Atlas.IoC.Injection;
 using JetBrains.Annotations;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace AltV.Icarus.IoC;
+namespace AltV.Atlas.IoC;
 
 /// <summary>
 ///     Extension class for mapping dependency injection via attributes.

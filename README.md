@@ -1,6 +1,6 @@
-# AltV.Icarus.IoC
+# AltV.Atlas.IoC
 
-Forked from https://github.com/FrenziedMarmot/DependencyInjection and modified for Project Icarus.
+Forked from https://github.com/FrenziedMarmot/DependencyInjection and modified for Project Atlas.
 
 ## Purpose
 
@@ -10,7 +10,7 @@ By default, using dependency injection in C# requires that every time you have a
 
 Install via nuget package manager or use dotnet.
 
-`dotnet add package AltV.Icarus.IoC`
+`dotnet add package AltV.Atlas.IoC`
 
 ## Description
 

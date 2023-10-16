@@ -1,4 +1,4 @@
-namespace AltV.Icarus.IoC.Injection;
+namespace AltV.Atlas.IoC.Injection;
 
 public class StartupService
 {

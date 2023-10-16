@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace AltV.Icarus.IoC.Injection;
+namespace AltV.Atlas.IoC.Injection;
 
 /// <summary>
 ///     Interface for defining a class that retrieves assemblies.

@@ -1,4 +1,4 @@
-﻿namespace AltV.Icarus.IoC.Injection;
+﻿namespace AltV.Atlas.IoC.Injection;
 
 /// <summary>
 ///     Abstract class for factory objects to implement when specified by `[Injectable(Factory = ...)]` providing type
