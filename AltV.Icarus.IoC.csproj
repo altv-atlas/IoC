@@ -8,6 +8,9 @@
         <RootNamespace>AltV.Icarus.IoC</RootNamespace>
         <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
         <PackageReadmeFile>README.md</PackageReadmeFile>
+        <RepositoryUrl>https://github.com/altv-icarus/IoC.git</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PublishUrl>https://github.com/altv-icarus</PublishUrl>
     </PropertyGroup>
 
     <ItemGroup>
