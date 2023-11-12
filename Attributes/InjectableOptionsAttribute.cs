@@ -1,4 +1,4 @@
-namespace AltV.Icarus.IoC.Attributes;
+namespace AltV.Atlas.IoC.Attributes;
 
 /// <summary>
 ///     Attribute class for using in dependency injection. Attributes described by this value will be found using the
