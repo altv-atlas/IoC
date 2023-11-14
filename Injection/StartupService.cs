@@ -2,6 +2,6 @@ namespace AltV.Atlas.IoC.Injection;
 
 public class StartupService
 {
-    public required byte Priority { get; set; }
-    public required Type Service { get; set; }
+    public byte Priority { get; set; }
+    public Type Service { get; set; }
 }
